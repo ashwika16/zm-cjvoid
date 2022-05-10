@@ -1,0 +1,38 @@
+#e {
+    position:absolute;
+    top: 3000px;
+    right: 0px;
+    
+}
+body
+{
+    background-color: rgb(10, 10, 10);
+}
+#hd3{
+    display: inline-block;
+    color: rgb(243, 248, 240);
+    
+    font-family: roboto;
+    font-size: 40px;
+     }
+     
+     p{
+         font-size: 20;
+         color:rgb(252, 15, 15);
+     }
+     
+     iframe{
+         animation-name: example;
+        animation-duration: 5s;
+        animation-iteration-count: infinite;}
+
+     
+@keyframes example{
+    from{box-shadow: 1px 1px 38px blue  ;}
+    to {box-shadow: 1px 1px 38px rgb(243, 4, 183) ;}
+}
+  
+button{
+    border-radius: 50px;
+    background-color: darkcyan;
+}

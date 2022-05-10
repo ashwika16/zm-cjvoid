@@ -1,0 +1,44 @@
+body{
+    background-size: cover;
+    
+  }
+  .bg{
+    background-size: 100%;
+  }
+  #hd3{
+  display: inline-block;
+  color: #020202;
+  background-color: aliceblue;
+  font-family: fantasy;
+    
+  }
+
+ button{
+    padding: 20px 50px;
+    display: inline-block;
+    font-size: 25px;
+    font-style: inherit;
+  }
+
+  #am{
+    padding: 20px 50px;
+    display: inline-block;
+  }
+
+  #ph{
+    padding: 20px 50px;
+    display: inline-block;
+  }
+
+  #vis{
+    padding: 20px 50px;
+    display: inline-block;
+  }
+
+  #hd3 {
+    display: inline-block;
+    color: #020202;
+    background-color: aliceblue;
+    font-family: fantasy;
+    font-size: 60px;
+  }

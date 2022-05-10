@@ -1,0 +1,19 @@
+body
+{
+    background-color: rgb(39, 223, 236);
+}
+#hd3{
+    display: inline-block;
+    color: rgb(250, 16, 16);
+    font-family: roboto;
+    font-size: 30px;
+   
+}
+     p {
+         font-size: 18;
+     }
+     #exit {
+        position:absolute;
+        top: 1000px;
+        right: 50px;
+    }

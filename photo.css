@@ -1,0 +1,26 @@
+#b1 {
+        position:absolute;
+        top: 750px;
+        right: 0px;
+}
+body
+{
+    background-color: rgb(226, 18, 11);
+}
+#hd3{
+    display: inline-block;
+    color: rgb(28, 250, 16);
+font-size: 30px;
+font-family: roboto;
+     }
+     
+img{
+    animation-name: example;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+}
+@keyframes example{
+    from{box-shadow: 1px 1px 38px rgb(35, 243, 8);}
+    to {box-shadow: 1px 1px 38px rgb(8, 32, 252);}
+}
+     
